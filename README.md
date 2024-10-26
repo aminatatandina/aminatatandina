@@ -1,12 +1,10 @@
-## Hi there 👋
+**👋 Hello!**
+
+- 🌱 First year information science student 
+- ⚡ Looking to gain more technical experience 
+- 🔭 Also intrested in biological and space science! 
 
 <!--
-**aminatatandina/aminatatandina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
