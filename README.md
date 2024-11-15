@@ -2,7 +2,7 @@
 
 - 🌱 First year information science student 
 - ⚡ Looking to gain more technical experience 
-- 🔭 Also intrested in biological and space science! 
+- 🔭 Also intrested in biology and space science! 
 
 <!--
 - 👯 I’m looking to collaborate on ...
